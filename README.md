@@ -19,7 +19,7 @@ Also you can sort and filter to see specified results
 Click on a card to see employee details.
 ![Details](./screenshots/3.PNG)
 
-You could enable the edit mode just by clicking on the pen icon & delete the register by clicking the X.
+You can enable the edit mode just by clicking on the pen icon & delete the register by clicking the X.
 ![Edit mode](./screenshots/4.PNG)
 There's no more Maria....
 ![Deleted register](./screenshots/5.PNG)
